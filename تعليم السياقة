@@ -1,0 +1,112 @@
+[  
+    {  
+        "id": 1,  
+        "question": "What does the red triangle traffic sign indicate in Morocco?",  
+        "options": [  
+            "Yield",  
+            "Stop",  
+            "Road Work",  
+            "No Parking"  
+        ],  
+        "correctAnswer": "Yield"  
+    },  
+    {  
+        "id": 2,  
+        "question": "What should you do when you see a stop sign?",  
+        "options": [  
+            "Slow down",  
+            "Stop completely",  
+            "Proceed without stopping",  
+            "Look both ways"  
+        ],  
+        "correctAnswer": "Stop completely"  
+    },  
+    {  
+        "id": 3,  
+        "question": "What does a circular traffic sign with a red border indicate?",  
+        "options": [  
+            "Go",  
+            "No entry",  
+            "Speed limit",  
+            "One way"  
+        ],  
+        "correctAnswer": "No entry"  
+    },  
+    {  
+        "id": 4,  
+        "question": "What does the yellow diamond traffic sign warn about?",  
+        "options": [  
+            "Danger ahead",  
+            "Road closed",  
+            "Construction zone",  
+            "School zone"  
+        ],  
+        "correctAnswer": "Danger ahead"  
+    },  
+    {  
+        "id": 5,  
+        "question": "What does a blue square sign indicate?",  
+        "options": [  
+            "Prohibited area",  
+            "Parking area",  
+            "Information about services",  
+            "Speed limit"  
+        ],  
+        "correctAnswer": "Information about services"  
+    },  
+    {  
+        "id": 6,  
+        "question": "What should you do when you see a pedestrian crossing sign?",  
+        "options": [  
+            "Speed up",  
+            "Honk your horn",  
+            "Stop and give way to pedestrians",  
+            "Ignore and proceed"  
+        ],  
+        "correctAnswer": "Stop and give way to pedestrians"  
+    },  
+    {  
+        "id": 7,  
+        "question": "What does a no parking sign mean?",  
+        "options": [  
+            "You may park here",  
+            "Parking is allowed for a limited time",  
+            "No parking at any time",  
+            "Parking is only for residents"  
+        ],  
+        "correctAnswer": "No parking at any time"  
+    },  
+    {  
+        "id": 8,  
+        "question": "What does a green circular traffic sign indicate?",  
+        "options": [  
+            "Restricted entry",  
+            "Go",  
+            "Stop",  
+            "Yield"  
+        ],  
+        "correctAnswer": "Go"  
+    },  
+    {  
+        "id": 9,  
+        "question": "What is the meaning of a traffic signal that flashes yellow?",  
+        "options": [  
+            "Stop",  
+            "Proceed with caution",  
+            "Go",  
+            "Yield"  
+        ],  
+        "correctAnswer": "Proceed with caution"  
+    },  
+    {  
+        "id": 10,  
+        "question": "What does the speed limit sign indicate?",  
+        "options": [  
+            "Maximum speed allowed",  
+            "Minimum speed required",  
+            "Danger zone",  
+            "Road closed"  
+        ],  
+        "correctAnswer": "Maximum speed allowed"  
+    }  
+]
